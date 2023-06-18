@@ -1,5 +1,5 @@
 import { Header } from './components/Header.jsx'
-import { Post } from './Post.jsx'
+import { Post } from './components/Post.jsx'
 
 import './global.css'
 import styles from './App.module.css'
